@@ -55,7 +55,7 @@ sudo chmod +x /usr/bin/hypr-audio-hud
 
 ### 1. Hyprland Keybinding
 
-Add the following keybinding block to your user-defined hotkeys configuration (e.g., `~/.config/hypr/hyprland/keybinds.lua` or your specific user overrides section) to toggle the HUD via `SUPER + FN + R`:
+Add the following keybinding block to your user-defined hotkeys configuration (e.g., `~/.config/hypr/hyprland/keybinds.lua` or your specific user overrides section) to toggle the HUD via `SUPER + CTRL + R`:
 
 ```lua
 hl.bind("SUPER + FN + R", function()
