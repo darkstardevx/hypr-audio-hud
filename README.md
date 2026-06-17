@@ -112,6 +112,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-*Maintained by Darkstar. Built with assistance from AI optimization.*
+*Maintained by Darkstar*
 
 https://github.com/darkstardevx/hypr-audio-hud.git
