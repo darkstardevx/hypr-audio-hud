@@ -6,7 +6,7 @@ pkgdesc="Interactive, cyberpunk terminal audio recording HUD for Hyprland 0.55+ 
 arch=('any')
 url="https://github.com/darkstardevx/hypr-audio-hud.git"
 license=('MIT')
-depends=('ghostty' 'cava' 'fzf' 'pipewire-utils' 'wireplumber' 'ncurses')
+depends=('ghostty' 'cava' 'fzf' 'pipewire' 'wireplumber' 'ncurses')
 source=('audio_record_hud.sh' 'hyprland-hud-rules.lua')
 sha256sums=('SKIP' 'SKIP') # Automatically calculated during the build phase
 
