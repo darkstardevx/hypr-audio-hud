@@ -112,9 +112,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-------- HEAD
-*Maintained by Darkstar*
-=======
 *Developed & Maintained by DarkstarDevX.*
 ------- b61e4ba (Fixed small stuff.)
 
