@@ -113,5 +113,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 *Maintained by DarkstarDevX. [dsdx.tech@gmail.com]*
-
-https://github.com/darkstardevx/hypr-audio-hud.git
